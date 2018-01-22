@@ -1,0 +1,3 @@
+/etc/named.conf
+chown rood.named
+chmod 640
